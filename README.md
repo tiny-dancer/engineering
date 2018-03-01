@@ -7,7 +7,7 @@ Table of contents
 
 <!--ts-->
    * [Individuals](#individuals)
-   * [Teams](#teams)
+   * [Teams (initial draft)](#teams)
 <!--te-->
 
 Individuals
