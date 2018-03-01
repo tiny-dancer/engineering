@@ -62,7 +62,7 @@ Individuals
 Teams
 ============
 
-Breaking down "over the wall" mentality
+### Breaking down "over the wall" mentality
 
 - As best as possible within the organization, all relevant team members need to be engaged as part of a single team team, this includes:
   - Security
@@ -98,9 +98,9 @@ Breaking down "over the wall" mentality
   - product + ux/ui
   - etc.
 
-It's very feasible team members are at first not comfortable acting cross-functional when adopting this mind set. The team should be operating in welcoming environment to allow each other to comfortably learn new technologies and functions.
+> It's very feasible team members are at first not comfortable acting cross-functional when adopting this mind set. The team should be operating in welcoming environment to allow each other to comfortably learn new technologies and functions.
 
-Limiting Work in Progress and Delivering Features Sequently
+### Limiting Work in Progress and Delivering Features Sequently
 
 Work in Progress is the death to any lean pursuing software development team. At the core of many modern agile, devops, and lean practices is downsizing and controlling Work in Progress.
 
@@ -110,7 +110,7 @@ Reducing lead cycle time allows for faster user feedback
   - Very likely originally planned subsequent features could look different after initial releases
   - If working on items in parallel, alot of the work on these originally planned features may be "lost" work as the feedback doesn't come until they've already been developed and released.
 
-Ensuring delivery of a higher priority items
+Ensuring delivery of higher priority items
 
 - Preferable when nearing the end of a planning period to have already delivered all priority items vs about to release all priority items
 - Less risk when delivered incrementally and seperate
@@ -135,7 +135,7 @@ Helps focus on the immediate benefits. Proven "work to be done" is completed fas
 
 *These are benefits of a more efficient team, releasing more often is not a goal itself but a byproduct of better processes
 
-All team members contribute to solutions
+### All team members contribute to solutions
 
 Story planning and grooming is a team-wide activity
 
@@ -175,7 +175,7 @@ Build Version field is populated with correct pipeline url + version
 
 User Stories include "As a <role>, I want <feature> so that <reason>" in description
 
-- **Reason statement is most important** but often left off
+- **Reason is most important** but often left off
 - Clearly communicates *why* a feature is being implemented and it's intended benefit
   - This reason is a major benefit in proper scoping & solutioning
 
@@ -211,7 +211,7 @@ References
 
 <https://blog.3back.com/scrum-patterns/6-ways-successfully-swarm/>
 
-Continuous Integration & Continous Delivery
+### Continuous Integration & Continous Delivery
 
 **Test Automation**
 
