@@ -1,5 +1,7 @@
 # Engineering Expectations & Responsibilities
 
+These have been created as a consistent reference for both myself and teams over the previous years as an engineering leader. Like all great software, this document is continuously evolving based on feeback and experience.
+
 Table of contents
 =================
 
