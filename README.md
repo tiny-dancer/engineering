@@ -1,6 +1,15 @@
-# Engineering Expectations
+# Engineering Expectations & Responsibilities
 
-## Roles and Primary Responsibilities
+Table of contents
+=================
+
+<!--ts-->
+   * [Individuals](#individuals)
+   * [Teams](#teams)
+<!--te-->
+
+Individuals
+============
 
 > Primary goal is delivering value to the users and thus the business.
 
@@ -50,7 +59,8 @@
 
 *created as a mananger for a reference to team members and myself, these are not all inclusive and have been extended to over time from feeback*
 
-## Team Responsibilities
+Teams
+============
 
 Breaking down "over the wall" mentality
 
