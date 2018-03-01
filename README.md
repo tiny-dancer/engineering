@@ -59,8 +59,6 @@ Individuals
 
 > Any Engineer absolutely can participate and provide feedback in these same conversations, the difference is the lead engineers are viewed as key decision makers and engineering manager is viewed as the decision maker in these matters. A lead engineer should be able to strongly represent their respective scrum team. An engineering manager may likely defer to a lead engineer.
 
-*created as a mananger for a reference to team members and myself, these are not all inclusive and have been extended to over time from feeback*
-
 Teams
 ============
 
