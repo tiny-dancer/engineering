@@ -14,7 +14,7 @@ Individuals
 
 ### Mid Level Engineer
 
-- Capable of delivering features/capabilities self sufficiently in a timely manner most of the time.
+- Capable of delivering features/capabilities self sufficiently in a timely manner _most of the time_.
 - Ready to take ownership and delve into new technology areas with a quick ramp up.
 - Not expected to lead innovation efforts, but is actively particiapting
 - Well versed in at least single area of development stack (ui, api, database, etc) and aware of majority of components in play
