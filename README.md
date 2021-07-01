@@ -4,7 +4,7 @@ These have been created as a consistent reference for both myself and teams over
 
 <!--ts-->
    * [Individuals](#individuals)
-   * [Teams (initial draft)](#teams)
+   * [Teams (wip)](#teams)
 <!--te-->
 
 Individuals
@@ -32,7 +32,7 @@ Individuals
 
 ### Lead Engineer (Scrum team engineering leader)
 
-- Extends Sr Engineer to include more leadership at a scrum team level vs a code level
+- Extends Sr Engineer to include more leadership at a team level vs a code level
   - A key technical representative and decision maker in product prioritization, planning conversations
   - A technical leader for the team in architectural direction and conversations
   - A leader in technical design and implementation for sprint work
@@ -58,6 +58,8 @@ Individuals
 
 Teams
 ============
+
+> TODO: Originally crafted 3 years ago, update
 
 ### Breaking down "over the wall" mentality
 
